@@ -189,7 +189,7 @@ if 1:
             print(e)
             speak("Sorry my master.I am not able to send this email")
     elif 'who is banshita' in query:
-        speak("she is your classmate sir,you also called her majnubhai")
+        speak("she is your classmate sir")
     elif 'who is dhaval' in query:
         speak("he is one of the bestfriend,,,you both complete your diploma in same college")
     elif 'who is tom' in query:
